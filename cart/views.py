@@ -12,7 +12,7 @@ dict_drinkimg = {
     "cappuccino" : "cappuccino.png",
     "dứa ép" : "duaep.png",
     "cà phê đen" : "dennongimg.png",
-    "cà phê nâu" : "suada.png",
+    "cà phê nâu" : "suada.jpg",
     "bạc sỉu" : "bacsiu.png",
     "cà phê cốt dừa" : "cotdua.png",
     "espresso" : "espresso.png",
